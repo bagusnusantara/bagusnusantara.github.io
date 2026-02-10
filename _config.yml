@@ -15,7 +15,7 @@ timezone: Asia/Jakarta
 # ↓ --------------------------
 
 title: Adetiya Bagus N. # tetap
-tagline: DevOps Enthusiast & Engineer # ubah sesuai branding DevOps
+tagline: DevOps Engineer | Build - Deploy - Run
 description: >- # digunakan untuk SEO dan feed
   A minimal, responsive, and feature-rich Jekyll theme tailored for DevOps practices, automation, CI/CD, and cloud-native infrastructure.
 
@@ -40,7 +40,7 @@ social:
     - https://github.com/bagusnusantara # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/adetiya-bagus-nusantara-684688112/ # LinkedIn Profile
 
 # Site Verification Settings
 webmaster_verifications:
