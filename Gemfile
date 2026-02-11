@@ -9,6 +9,7 @@ gem "jekyll-seo-tag"
 gem "jekyll-archives"
 gem "jekyll-sitemap"
 gem "jekyll-redirect-from"
+gem "jekyll-include-cache"
 
 
 gem "html-proofer", "~> 5.0", group: :test

@@ -231,4 +231,5 @@ plugins:
   - jekyll-archives
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-include-cache
 
